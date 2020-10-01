@@ -1,5 +1,8 @@
 # Spring Micro Services Showcase
 
+## Purpose of this project
+To make anyone understand about the microservice architecture and their working, who has knowledge of java.
+
 [Microservices](https://microservices.io/) is an architectural style that structures an application as a collection of loosely coupled services, where each service implements business capabilities. A microservice runs in its own process and communicates other services via HTTP API. Every microservice can be deployed, upgraded, scaled, and restarted independently of the other services in an application.
 It enables continuous delivery/deployment of large, complex applications. It allows better component isolation and high resilience against component failures. Smaller components in microservices can be scaled easily to meet increasing demand for a specific component. It increases developer independence and allows parallel development across multiple smaller teams.
 Microservices brings additional complexity as the developers have to mitigate fault tolerance, network latency, and deal with load balancing. Also deployment and testing of such a distributed system is complicated and tedious.
